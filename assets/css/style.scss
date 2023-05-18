@@ -2,12 +2,12 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #0072C6;
+$primary-dark: #005691;
+$secondary: #F1F1F1;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: #EEF8FF;
 $steel: #5c5a5a;
 
 // Links
@@ -17,8 +17,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: "Playfair Display", sans-serif, -apple-system;
+$font-family-heading: "Playfair Display", sans-serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
