@@ -10,4 +10,4 @@ show_call_box: true
 
 # Anna Kujawska - Kancelaria Radcy Prawnego
 
-Kompleksowa usługa prawna w zakresie prawa rodzinnego, gospodarczego i prawa pracy.
+Kompleksowa obsługa prawna w zakresie prawa rodzinnego, gospodarczego i prawa pracy.
