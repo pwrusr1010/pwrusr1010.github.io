@@ -13,7 +13,7 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Strona główna"
     url: "/"
     weight: 1
   - name: "Kontakt"
