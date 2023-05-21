@@ -6,8 +6,6 @@ description: Kontakt
 
 Zapraszam do kontaktu. Biuro czynne w godzinach:
 
-| Dzień        | Godziny       |
-| ------------ | ------------- |
 | Poniedziałek | 14:30 - 17:00 |
 | Wtorek       | 14:30 - 17:00 |
 | Środa        | 14:30 - 17:00 |

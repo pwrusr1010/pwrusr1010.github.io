@@ -11,13 +11,13 @@ logo:
   # desktop_width: "120px"
   desktop_width: "32px"
 
-home: 
-  limit_services: 6
+# home: 
+#   limit_services: 6
 
 collections:
-  services:
-    output: true
-    sort_by: weight
+  # services:
+  #   output: true
+  #   sort_by: weight
   team:
     output: true
 
