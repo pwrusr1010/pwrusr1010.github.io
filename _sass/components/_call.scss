@@ -37,10 +37,8 @@
   .call-phone {
     margin-bottom: 5px;
   }
-  .call-email {
-    a {
-      color: $black;
-    }
+  .call-phone-mail-link {
+      color: $primary;
   }
   strong {
     font-weight: bold;
