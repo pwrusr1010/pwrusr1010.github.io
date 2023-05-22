@@ -2,8 +2,8 @@ main:
   - name: "Strona główna"
     url: "/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Opinie"
+    url: "/reviews/"
     weight: 3
   - name: "O mnie"
     url: "/about/"
