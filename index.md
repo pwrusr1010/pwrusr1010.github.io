@@ -1,7 +1,7 @@
 ---
-title: Anna Kujawska Kancelaria
+title: Anna Kujawska - Kancelaria Radcy Prawnego
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Kompleksowa obsługa prawna w zakresie prawa rodzinnego, gospodarczego i prawa pracy.
 intro_image: "images/lawyer2.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
